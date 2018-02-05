@@ -1,0 +1,2 @@
+# mariokaze
+Safelink
